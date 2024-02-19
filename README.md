@@ -1,4 +1,4 @@
-# Organizador de Pastas
+# Organizador de Arquivos
 
 O Organizador de Pastas é um programa desenvolvido por mim com o objetivo de simplificar a gestão de arquivos no computador. Utilizando este programa, os usuários podem facilmente organizar suas pastas, tornando a busca e o acesso a arquivos uma tarefa muito mais eficiente.
 
